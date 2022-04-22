@@ -1,4 +1,3 @@
-import transactions from "../task4/transactions.json"
 
 export const TransactionHistory = ({transactions}) =>{
     return(
