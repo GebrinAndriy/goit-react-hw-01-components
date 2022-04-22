@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GebrinAndriy/goit-react-hw-01_components.git/static/css/main.19822864.css",
+    "main.js": "/GebrinAndriy/goit-react-hw-01_components.git/static/js/main.937dea6d.js",
+    "index.html": "/GebrinAndriy/goit-react-hw-01_components.git/index.html",
+    "main.19822864.css.map": "/GebrinAndriy/goit-react-hw-01_components.git/static/css/main.19822864.css.map",
+    "main.937dea6d.js.map": "/GebrinAndriy/goit-react-hw-01_components.git/static/js/main.937dea6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19822864.css",
+    "static/js/main.937dea6d.js"
+  ]
+}
