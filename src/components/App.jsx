@@ -11,7 +11,7 @@ export const App = () => {
   const title = "Upload stats";
   return (
     <div>
-      <Profile
+      <Profile 
         username = {username}
         tag={tag}
         location={location}
